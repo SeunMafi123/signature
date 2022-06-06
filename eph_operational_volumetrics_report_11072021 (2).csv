@@ -1,0 +1,14 @@
+Volumetrics report for the date 11072021,,,,,,,,,,
+Process Type,System,Successful_Adds,Successful_Updates,Successful_Deletes,Failed_Adds,Failed_Updates,Failed_Deletes,Total_Adds,Total_Updates,Total_Deletes
+EPH Ongoing Maintenance,AHM,1,172,,,2,,1,174,0
+EPH Ongoing Maintenance,CORAM,16,162,,,,,16,162,0
+EPH Ongoing Maintenance,ESL-RxConnect,52566,164450,1315,15,149,,52581,164599,1315
+EPH Ongoing Maintenance,HBS,286,1146,3,,,1,286,1146,4
+EPH Ongoing Maintenance,MINUTECLINIC,45031,56613,833,,2394,1856,45031,59007,2689
+EPH Ongoing Maintenance,NOVALOGIX,107,136,,,,,107,136,0
+EPH Ongoing Maintenance,QL,45718,71810,477,349,12,,46067,71822,477
+EPH Ongoing Maintenance,RXCLAIM,605650,104301,,,,,605650,104301,0
+EPH Ongoing Maintenance,RXCONNECT,,73083,63,,2,1358,0,73085,1421
+EPH Ongoing Maintenance,digital_h4l,17357,22,,22,,,17379,22,0
+EPH Ongoing Maintenance,null,,,10,,,1,0,0,11
+EPH Ongoing Maintenance,ESL-Individual Master In,4342,5947,5,25,22,,4367,5969,5
