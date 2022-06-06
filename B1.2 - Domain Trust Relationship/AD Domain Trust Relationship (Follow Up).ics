@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Central Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Rose, James W";RSVP=TRUE:mailto:RoseJW@cvshealth.com
+ATTENDEE;CN="Frazier, Nicole";RSVP=TRUE:mailto:NFrazier@cvshealth.com
+ATTENDEE;CN="Kaemmerer, David";RSVP=TRUE:mailto:DKAEMMERER@cvshealth.com
+ATTENDEE;CN="Ostrowski, Mark";RSVP=TRUE:mailto:Mark.Ostrowski@CVSHealth.com
+ATTENDEE;CN="Saxena, Saurabh";RSVP=TRUE:mailto:SaxenaS3@cvshealth.com
+ATTENDEE;CN="Kubiak, Sarah";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Sarah.Kub
+	iak@CVSHealth.com
+ATTENDEE;CN="Gonzalez, Julie A";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Julie
+	.Gonzalez@cvshealth.com
+ATTENDEE;CN="Moon, Bianca";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:MoonB@cvsh
+	ealth.com
+ATTENDEE;CN="Rocha, Joseph";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Joseph.Ro
+	cha@CVSHealth.com
+ATTENDEE;CN="Jarrett, Tyrell M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Jarre
+	ttT@cvshealth.com
+ATTENDEE;CN="Santos, Emely";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:SantosE@a
+	etna.com
+ATTENDEE;CN="Quiambao, Terri Ann G";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:T
+	erriAnn.Quiambao@CVSHealth.com
+CLASS:PUBLIC
+CREATED:20220125T162727Z
+DESCRIPTION:Hi Jim\,\n\n \n\nFollowing our conversation during the follow u
+	p meeting today 1/20/22\, we are setting up this time for you to walk us t
+	hrough the configuration settings of a two-way domain trust relationship i
+	n contrast to a one-way domain trust relationship and also to gain a bette
+	r understanding of how sub domains such as AETH.aethna.com and Aetna.com d
+	omain are categorized in the AD structural diagram. \n\n \n\nThank you\,\n
+	\n \n\nSeun Mafi | IT Senior Consultant\, Internal Audit\n200 Highland Cor
+	porate Drive\, Cumberland RI\, 02864\n\n\nCONFIDENTIALITY NOTICE: This com
+	munication and any attachments may contain confidential and/or privileged 
+	information for the use of the designated recipients named above. If you a
+	re not the intended recipient\, you are hereby notified that you have rece
+	ived this communication in error and that any review\, disclosure\, dissem
+	ination\, distribution or copying of it or its contents is prohibited. If 
+	you have received this communication in error\, please notify the sender i
+	mmediately by email or telephone and destroy all copies of this communicat
+	ion and any attachments.\n\n \n\n-- Do not delete or change any of the fol
+	lowing text. -- \n\n \n\nWhen it's time\, join your Webex meeting here. \n
+	\n \n\n \n\nMeeting number (access code): 2661 157 4329\n\nMeeting passwor
+	d: JhkFuBC58@6  \n\n \n\n \n\nJoin meeting <https://cvs.webex.com/cvs/j.ph
+	p?MTID=m2af4b684adb8765bfa22f5b3f39046ab> \n\nTap to join from a mobile de
+	vice (attendees only)  \n800-300-4206\,\,26611574329## <tel:800-300-4206\,
+	\,*01*26611574329%23%23*01*>  US TF  \n404-397-1513\,\,26611574329## <tel:
+	404-397-1513\,\,*01*26611574329%23%23*01*>  US Toll  \n\nJoin by phone  \n
+	800-300-4206 US TF  \n404-397-1513 US Toll  \nGlobal call-in numbers <http
+	s://cvs.webex.com/cvs/globalcallin.php?MTID=me67b189170aff07be625bbe7ec9fd
+	3f5>   |  Toll-free calling restrictions <https://assets.lumen.com/is/cont
+	ent/Lumen/cisco-webex-delivered-by-lumen-global-number-coverage-and-restri
+	ctionspdf?Creativeid=c42570e7-5d05-4c31-912a-351e4cc567c3>    \n  \nJoin b
+	y video system\, application or Skype for business\nDial 26611574329@webex
+	.com <sip:26611574329@webex.com>   \nYou can also dial 173.243.2.68 and en
+	ter your meeting number. If you are a host\, click here <https://cvs.webex
+	.com/cvs/j.php?MTID=m835ef7216bc4cbfa4f4a8a1e208aa5ca>  to view host infor
+	mation. \n\n\nNeed Webex Support? \n\nCall Webex support at: 877-345-8799 
+	\n\n\nhttp://help.webex.com <http://help.webex.com>  \n\n \n\n \n\n \n\n
+DTEND;TZID="Central Standard Time":20220121T130000
+DTSTAMP:20220120T232209Z
+DTSTART;TZID="Central Standard Time":20220121T123000
+LAST-MODIFIED:20220125T162727Z
+LOCATION:webex
+ORGANIZER;CN="Mafi, oluwaseyi E":mailto:oluwaseyi.Mafi@CVSHealth.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:AD: Domain Trust Relationship (Follow Up)
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000205018DE1F0ED801000000000000000
+	01000000097E4D40E7B187A4AA738B540F30661A2
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	
+	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{f
+	ont-family:"CVS Health Sans"\;\n	panose-1:2 11 5 4 2 2 2 2 2 4\;}\n@font-f
+	ace\n	{font-family:"CVS Health Sans Medium"\;\n	panose-1:2 11 5 4 2 2 2 2 
+	2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif
+	\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1
+	\;\n	text-decoration:underline\;}\nspan.EmailStyle17\n	{mso-style-type:per
+	sonal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;
+	}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family:"Calibri"\
+	,sans-serif\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1
+	.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style>
+	<!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\
+	n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\
+	n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></he
+	ad><body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-
+	word'><div class=WordSection1><p class=MsoNormal>Hi Jim\,<o:p></o:p></p><p
+	 class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Following our co
+	nversation during the follow up meeting today 1/20/22\, we are setting up 
+	this time for you to walk us through the configuration settings of a two-w
+	ay domain trust relationship in contrast to a one-way domain trust relatio
+	nship and also to gain a better understanding of how sub domains such as A
+	ETH.aethna.com and Aetna.com domain are categorized in the AD structural d
+	iagram. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=M
+	soNormal>Thank you\,<o:p></o:p></p><p class=MsoNormal><span style='font-si
+	ze:10.0pt\;font-family:"CVS Health Sans Medium"\,sans-serif\;color:black\;
+	background:white'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span st
+	yle='font-size:10.0pt\;font-family:"CVS Health Sans Medium"\,sans-serif\;c
+	olor:black\;background:white'>Seun Mafi | </span><span style='font-size:10
+	.0pt\;font-family:"CVS Health Sans"\,sans-serif\;color:#CC0000\;background
+	:white'>IT Senior Consultant\, Internal Audit</span><span style='font-size
+	:10.0pt\;font-family:"CVS Health Sans Medium"\,sans-serif\;color:black\;ba
+	ckground:white'><br></span><span style='font-size:10.0pt\;font-family:"CVS
+	 Health Sans"\,sans-serif\;color:black\;background:white'>200 Highland Cor
+	porate Drive\, Cumberland RI\, 02864<br><img width=140 height=70 style='wi
+	dth:1.4583in\;height:.7291in' id="Picture_x0020_1" src="cid:image001.png@0
+	1D80E22.40998730" alt=CVS><o:p></o:p></span></p><p class=MsoNormal><span s
+	tyle='font-size:10.0pt\;font-family:"Arial"\,sans-serif\;color:black\;back
+	ground:white'>CONFIDENTIALITY NOTICE: This communication and any attachmen
+	ts may contain confidential and/or privileged information for the use of t
+	he designated recipients named above. If you are not the intended recipien
+	t\, you are hereby notified that you have received this communication in e
+	rror and that any review\, disclosure\, dissemination\, distribution or co
+	pying of it or its contents is prohibited. If you have received this commu
+	nication in error\, please notify the sender immediately by email or telep
+	hone and destroy all copies of this communication and any attachments.<o:p
+	></o:p></span></p><p class=MsoNormal>&nbsp\;<o:p></o:p></p><table class=Ms
+	oNormalTable border=0 cellspacing=0 cellpadding=0 align=left width="100%" 
+	style='width:100.0%\;background:white'><tr><td style='padding:0in 15.0pt 0
+	in 15.0pt'><p class=MsoNormal style='mso-element:frame\;mso-element-frame-
+	hspace:2.25pt\;mso-element-wrap:around\;mso-element-anchor-vertical:paragr
+	aph\;mso-element-anchor-horizontal:column\;mso-height-rule:exactly'><a nam
+	e=WBXB3E8B><span style='font-size:10.5pt\;font-family:"Arial"\,sans-serif\
+	;color:#A0A0A0'>-- Do not delete or change any of the following text. --</
+	span></a><span style='mso-bookmark:WBXB3E8B'><span style='color:black'> </
+	span></span><span style='mso-bookmark:WBXB3E8B'><o:p></o:p></span></p></td
+	><span style='mso-bookmark:WBXB3E8B'></span></tr><tr style='height:.25in'>
+	<td style='padding:0in 15.0pt 0in 15.0pt\;height:.25in'><p class=MsoNormal
+	 style='mso-element:frame\;mso-element-frame-hspace:2.25pt\;mso-element-wr
+	ap:around\;mso-element-anchor-vertical:paragraph\;mso-element-anchor-horiz
+	ontal:column\;mso-height-rule:exactly'><span style='mso-bookmark:WBXB3E8B'
+	><span style='font-family:"Arial"\,sans-serif\;color:black'>&nbsp\;</span>
+	</span><span style='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial
+	"\,sans-serif'><o:p></o:p></span></span></p></td><span style='mso-bookmark
+	:WBXB3E8B'></span></tr><tr><td style='padding:0in 15.0pt 0in 15.0pt'><tabl
+	e class=MsoNormalTable border=0 cellspacing=0 cellpadding=0><tr><td style=
+	'padding:0in 0in 0in 0in'><p class=MsoNormal style='line-height:16.5pt\;ms
+	o-element:frame\;mso-element-frame-hspace:2.25pt\;mso-element-wrap:around\
+	;mso-element-anchor-vertical:paragraph\;mso-element-anchor-horizontal:colu
+	mn\;mso-height-rule:exactly'><span style='mso-bookmark:WBXB3E8B'><b><span 
+	style='font-size:12.0pt\;font-family:"Arial"\,sans-serif\;color:black'>Whe
+	n it's time\, join your Webex meeting here. <o:p></o:p></span></b></span><
+	/p></td><span style='mso-bookmark:WBXB3E8B'></span></tr><tr style='height:
+	.25in'><td style='padding:0in 0in 0in 0in\;height:.25in'><p class=MsoNorma
+	l style='line-height:18.0pt\;mso-element:frame\;mso-element-frame-hspace:2
+	.25pt\;mso-element-wrap:around\;mso-element-anchor-vertical:paragraph\;mso
+	-element-anchor-horizontal:column\;mso-height-rule:exactly'><span style='m
+	so-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,sans-serif'>&nbsp\
+	;<o:p></o:p></span></span></p></td><span style='mso-bookmark:WBXB3E8B'></s
+	pan></tr></table><p class=MsoNormal style='mso-element:frame\;mso-element-
+	frame-hspace:2.25pt\;mso-element-wrap:around\;mso-element-anchor-vertical:
+	paragraph\;mso-element-anchor-horizontal:column\;mso-height-rule:exactly'>
+	<span style='mso-bookmark:WBXB3E8B'></span><span style='mso-bookmark:WBXB3
+	E8B'><span style='display:none'><o:p>&nbsp\;</o:p></span></span></p><table
+	 class=MsoNormalTable border=0 cellspacing=0 cellpadding=0><tr><td style='
+	padding:0in 0in 0in 0in'><p class=MsoNormal style='line-height:16.5pt\;mso
+	-element:frame\;mso-element-frame-hspace:2.25pt\;mso-element-wrap:around\;
+	mso-element-anchor-vertical:paragraph\;mso-element-anchor-horizontal:colum
+	n\;mso-height-rule:exactly'><span style='mso-bookmark:WBXB3E8B'><span styl
+	e='font-size:12.0pt\;font-family:"Arial"\,sans-serif\;color:black'>Meeting
+	 number (access code): 2661 157 4329<o:p></o:p></span></span></p></td><spa
+	n style='mso-bookmark:WBXB3E8B'></span></tr><tr><td style='padding:0in 0in
+	 0in 0in'><p class=MsoNormal style='line-height:16.5pt\;mso-element:frame\
+	;mso-element-frame-hspace:2.25pt\;mso-element-wrap:around\;mso-element-anc
+	hor-vertical:paragraph\;mso-element-anchor-horizontal:column\;mso-height-r
+	ule:exactly'><span style='mso-bookmark:WBXB3E8B'><span style='font-size:12
+	.0pt\;font-family:"Arial"\,sans-serif\;color:black'>Meeting password: JhkF
+	uBC58@6&nbsp\; <o:p></o:p></span></span></p></td><span style='mso-bookmark
+	:WBXB3E8B'></span></tr><tr style='height:24.0pt'><td style='padding:0in 0i
+	n 0in 0in\;height:24.0pt'><p class=MsoNormal style='line-height:24.0pt\;ms
+	o-element:frame\;mso-element-frame-hspace:2.25pt\;mso-element-wrap:around\
+	;mso-element-anchor-vertical:paragraph\;mso-element-anchor-horizontal:colu
+	mn\;mso-height-rule:exactly'><span style='mso-bookmark:WBXB3E8B'><span sty
+	le='font-family:"Arial"\,sans-serif'>&nbsp\;<o:p></o:p></span></span></p><
+	/td><span style='mso-bookmark:WBXB3E8B'></span></tr></table><p class=MsoNo
+	rmal style='mso-element:frame\;mso-element-frame-hspace:2.25pt\;mso-elemen
+	t-wrap:around\;mso-element-anchor-vertical:paragraph\;mso-element-anchor-h
+	orizontal:column\;mso-height-rule:exactly'><span style='mso-bookmark:WBXB3
+	E8B'></span><span style='mso-bookmark:WBXB3E8B'><span style='display:none'
+	><o:p>&nbsp\;</o:p></span></span></p><table class=MsoNormalTable border=0 
+	cellspacing=0 cellpadding=0 width=0 style='width:0in\;width:auto!important
+	'><tr><td style='padding:0in 0in 0in 0in\;width:auto!important'><table cla
+	ss=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=0 style='widt
+	h:0in\;background:#43A942\;border:solid #43A942 1.0pt\;width:auto!importan
+	t\;border-radius:25px\;min-width:160px!important'><tr><td style='border:no
+	ne\;padding:7.5pt 27.0pt 7.5pt 27.0pt'><p class=MsoNormal align=center sty
+	le='text-align:center\;mso-element:frame\;mso-element-frame-hspace:2.25pt\
+	;mso-element-wrap:around\;mso-element-anchor-vertical:paragraph\;mso-eleme
+	nt-anchor-horizontal:column\;mso-height-rule:exactly'><span style='mso-boo
+	kmark:WBXB3E8B'></span><a href="https://cvs.webex.com/cvs/j.php?MTID=m2af4
+	b684adb8765bfa22f5b3f39046ab"><span style='mso-bookmark:WBXB3E8B'><span st
+	yle='font-size:15.0pt\;font-family:"Arial"\,sans-serif\;color:white\;text-
+	decoration:none'>Join meeting</span></span><span style='mso-bookmark:WBXB3
+	E8B'></span></a><span style='mso-bookmark:WBXB3E8B'></span><span style='ms
+	o-bookmark:WBXB3E8B'><o:p></o:p></span></p></td><span style='mso-bookmark:
+	WBXB3E8B'></span></tr></table><span style='mso-bookmark:WBXB3E8B'></span><
+	/td><span style='mso-bookmark:WBXB3E8B'></span></tr></table><p class=MsoNo
+	rmal style='mso-element:frame\;mso-element-frame-hspace:2.25pt\;mso-elemen
+	t-wrap:around\;mso-element-anchor-vertical:paragraph\;mso-element-anchor-h
+	orizontal:column\;mso-height-rule:exactly'><span style='mso-bookmark:WBXB3
+	E8B'><b><span style='font-size:9.0pt\;font-family:"Arial"\,sans-serif\;col
+	or:black'>Tap to join from a mobile device (attendees only)</span></b></sp
+	an><span style='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,s
+	ans-serif\;color:black'>&nbsp\; <br></span></span><span style='mso-bookmar
+	k:WBXB3E8B'></span><a href="tel:800-300-4206\,\,*01*26611574329%23%23*01*"
+	><span style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-f
+	amily:"Arial"\,sans-serif\;color:#005E7D\;text-decoration:none'>800-300-42
+	06\,\,26611574329##</span></span><span style='mso-bookmark:WBXB3E8B'></spa
+	n></a><span style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;f
+	ont-family:"Arial"\,sans-serif\;color:#333333'>&nbsp\;US TF</span></span><
+	span style='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,sans-
+	serif\;color:black'>&nbsp\; <br></span></span><span style='mso-bookmark:WB
+	XB3E8B'></span><a href="tel:404-397-1513\,\,*01*26611574329%23%23*01*"><sp
+	an style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-famil
+	y:"Arial"\,sans-serif\;color:#005E7D\;text-decoration:none'>404-397-1513\,
+	\,26611574329##</span></span><span style='mso-bookmark:WBXB3E8B'></span></
+	a><span style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-
+	family:"Arial"\,sans-serif\;color:#333333'>&nbsp\;US Toll</span></span><sp
+	an style='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,sans-se
+	rif\;color:black'>&nbsp\; <br><br></span></span><span style='mso-bookmark:
+	WBXB3E8B'><b><span style='font-size:9.0pt\;font-family:"Arial"\,sans-serif
+	\;color:black'>Join by phone</span></b></span><span style='mso-bookmark:WB
+	XB3E8B'><span style='font-family:"Arial"\,sans-serif\;color:black'>&nbsp\;
+	 <br></span></span><span style='mso-bookmark:WBXB3E8B'><span style='font-s
+	ize:10.5pt\;font-family:"Arial"\,sans-serif\;color:#333333'>800-300-4206&n
+	bsp\;US TF</span></span><span style='mso-bookmark:WBXB3E8B'><span style='f
+	ont-family:"Arial"\,sans-serif\;color:black'>&nbsp\; <br></span></span><sp
+	an style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-famil
+	y:"Arial"\,sans-serif\;color:#333333'>404-397-1513&nbsp\;US Toll</span></s
+	pan><span style='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,
+	sans-serif\;color:black'>&nbsp\; <br></span></span><a href="https://cvs.we
+	bex.com/cvs/globalcallin.php?MTID=me67b189170aff07be625bbe7ec9fd3f5"><span
+	 style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-family:
+	"Arial"\,sans-serif\;color:#005E7D\;text-decoration:none'>Global call-in n
+	umbers</span></span><span style='mso-bookmark:WBXB3E8B'></span></a><span s
+	tyle='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,sans-serif\
+	;color:black'>&nbsp\;&nbsp\;|&nbsp\;&nbsp\;</span></span><a href="https://
+	assets.lumen.com/is/content/Lumen/cisco-webex-delivered-by-lumen-global-nu
+	mber-coverage-and-restrictionspdf?Creativeid=c42570e7-5d05-4c31-912a-351e4
+	cc567c3"><span style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt
+	\;font-family:"Arial"\,sans-serif\;color:#005E7D\;text-decoration:none'>To
+	ll-free calling restrictions</span></span><span style='mso-bookmark:WBXB3E
+	8B'></span></a><span style='mso-bookmark:WBXB3E8B'><span style='font-famil
+	y:"Arial"\,sans-serif\;color:black'> &nbsp\; <br>&nbsp\; <br></span></span
+	><span style='mso-bookmark:WBXB3E8B'><b><span style='font-size:9.0pt\;font
+	-family:"Arial"\,sans-serif\;color:black'>Join by video system\, applicati
+	on or Skype for business</span></b></span><span style='mso-bookmark:WBXB3E
+	8B'><span style='font-family:"Arial"\,sans-serif\;color:black'><br></span>
+	</span><span style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;
+	font-family:"Arial"\,sans-serif\;color:#333333'>Dial</span></span><span st
+	yle='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,sans-serif\;
+	color:black'> </span></span><a href="sip:26611574329@webex.com"><span styl
+	e='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-family:"Aria
+	l"\,sans-serif\;color:#005E7D\;text-decoration:none'>26611574329@webex.com
+	</span></span><span style='mso-bookmark:WBXB3E8B'></span></a><span style='
+	mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,sans-serif\;color
+	:black'>&nbsp\; <br></span></span><span style='mso-bookmark:WBXB3E8B'><spa
+	n style='font-size:10.5pt\;font-family:"Arial"\,sans-serif\;color:#333333'
+	>You can also dial 173.243.2.68 and enter your meeting number.</span></spa
+	n><span style='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,sa
+	ns-serif\;color:black'> </span></span><span style='mso-bookmark:WBXB3E8B'>
+	<span style='font-size:10.0pt\;font-family:"Arial"\,sans-serif\;color:blac
+	k'>If you are a host\, </span></span><span style='mso-bookmark:WBXB3E8B'><
+	/span><a href="https://cvs.webex.com/cvs/j.php?MTID=m835ef7216bc4cbfa4f4a8
+	a1e208aa5ca"><span style='mso-bookmark:WBXB3E8B'><span style='font-size:10
+	.0pt\;font-family:"Arial"\,sans-serif\;color:#005E7D\;text-decoration:none
+	'>click here</span></span><span style='mso-bookmark:WBXB3E8B'></span></a><
+	span style='mso-bookmark:WBXB3E8B'><span style='font-size:10.0pt\;font-fam
+	ily:"Arial"\,sans-serif\;color:black'> to view host information.</span></s
+	pan><span style='mso-bookmark:WBXB3E8B'><span style='font-family:"Arial"\,
+	sans-serif\;color:black'> </span></span><span style='mso-bookmark:WBXB3E8B
+	'><span style='font-family:"Arial"\,sans-serif'><o:p></o:p></span></span><
+	/p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=
+	"100%" style='width:100.0%'><tr><td style='padding:0in 0in 0in 0in'><p cla
+	ss=MsoNormal style='margin-bottom:12.0pt\;mso-element:frame\;mso-element-f
+	rame-hspace:2.25pt\;mso-element-wrap:around\;mso-element-anchor-vertical:p
+	aragraph\;mso-element-anchor-horizontal:column\;mso-height-rule:exactly'><
+	span style='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-fam
+	ily:"Arial"\,sans-serif\;color:#FA5858'><br>Need Webex Support? </span></s
+	pan><span style='mso-bookmark:WBXB3E8B'><o:p></o:p></span></p></td><span s
+	tyle='mso-bookmark:WBXB3E8B'></span></tr><tr><td style='padding:0in 0in 0i
+	n 0in'><p class=MsoNormal style='mso-element:frame\;mso-element-frame-hspa
+	ce:2.25pt\;mso-element-wrap:around\;mso-element-anchor-vertical:paragraph\
+	;mso-element-anchor-horizontal:column\;mso-height-rule:exactly'><span styl
+	e='mso-bookmark:WBXB3E8B'><span style='font-size:10.5pt\;font-family:"Aria
+	l"\,sans-serif\;color:#FA5858'>Call Webex support at: 877-345-8799 </span>
+	</span><span style='mso-bookmark:WBXB3E8B'><o:p></o:p></span></p></td><spa
+	n style='mso-bookmark:WBXB3E8B'></span></tr><tr><td style='padding:0in 0in
+	 0in 0in'><p class=MsoNormal style='mso-element:frame\;mso-element-frame-h
+	space:2.25pt\;mso-element-wrap:around\;mso-element-anchor-vertical:paragra
+	ph\;mso-element-anchor-horizontal:column\;mso-height-rule:exactly'><span s
+	tyle='mso-bookmark:WBXB3E8B'><br></span><a href="http://help.webex.com"><s
+	pan style='mso-bookmark:WBXB3E8B'><span style='color:#049FD9'>http://help.
+	webex.com</span></span><span style='mso-bookmark:WBXB3E8B'></span></a><spa
+	n style='mso-bookmark:WBXB3E8B'> <o:p></o:p></span></p></td><span style='m
+	so-bookmark:WBXB3E8B'></span></tr><tr style='height:33.0pt'><td style='pad
+	ding:0in 0in 0in 0in\;height:33.0pt'><p class=MsoNormal style='mso-element
+	:frame\;mso-element-frame-hspace:2.25pt\;mso-element-wrap:around\;mso-elem
+	ent-anchor-vertical:paragraph\;mso-element-anchor-horizontal:column\;mso-h
+	eight-rule:exactly'><span style='mso-bookmark:WBXB3E8B'><span style='font-
+	family:"Arial"\,sans-serif'>&nbsp\;<o:p></o:p></span></span></p></td><span
+	 style='mso-bookmark:WBXB3E8B'></span></tr></table><span style='mso-bookma
+	rk:WBXB3E8B'></span></td><span style='mso-bookmark:WBXB3E8B'></span></tr><
+	/table><span style='mso-bookmark:WBXB3E8B'></span><p class=MsoNormal><o:p>
+	&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p></div></body></h
+	tml>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20220120T232209Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
